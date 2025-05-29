@@ -5,8 +5,9 @@ about me:
 coming soon...
 
 <p align="left">
-view my resume here
-<a href="[https://drive.google.com/file/d/105pd6lyriCLDnxaPv84Dt3IOpUKKlvN1/view?usp=sharing](https://drive.google.com/file/d/105pd6lyriCLDnxaPv84Dt3IOpUKKlvN1/view?usp=sharing)](https://drive.google.com/file/d/1xvj_LPD28d40VEJn6lAje7L890vXj2Vr/view?usp=sharing)" target="blank">here</a>
+view my resume 
+<a href="https://drive.google.com/file/d/1xvj_LPD28d40VEJn6lAje7L890vXj2Vr/view?usp=sharing" target="_blank">here</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
