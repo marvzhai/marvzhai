@@ -1,6 +1,6 @@
 <h1 align="left">hey there 👋 i'm marvin :)</h1>
 <p align="left">currently a 3rd year cs student @ sjsu | 
-<a href="https://drive.google.com/file/d/1xvj_LPD28d40VEJn6lAje7L890vXj2Vr/view?usp=sharing" target="_blank">resume</a>
+<a href="https://drive.google.com/file/d/1MlUf6R1HCjNmrYK5HOKYexnZz-Qesb4U/view?usp=sharing" target="_blank">resume</a>
 </p>
 
 
